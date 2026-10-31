@@ -59,7 +59,7 @@ Para adaptar el análisis tanto a la lectura rápida como a la exploración en p
 
 Podés ver el **video explicativo en LinkedIn** donde muestro el paso a paso del proyecto, la ejecución del script en Google Colab y la interacción con las visualizaciones finales:
 
-👉 **([Ver video explicativo](https://drive.google.com/file/d/1pBm1pEkwiFszzhMiOAce2oJuVw8U2IU0/view?usp=sharing)**
+👉 **[Ver video explicativo](https://drive.google.com/file/d/1pBm1pEkwiFszzhMiOAce2oJuVw8U2IU0/view?usp=sharing)**
 
 ---
 
