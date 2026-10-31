@@ -47,10 +47,11 @@ df['Inflacion_Interanual (%)'] = df['IPC_Nacional_Indice'].pct_change(periods=12
 
 Para adaptar el análisis tanto a la lectura rápida como a la exploración en profundidad, se crearon dos formatos complementarios:
 
-- **📈 Gráfico Comparativo Interactivo (Datawrapper):** [Ver Gráfico Interactivo en Datawrapper]([https://datawrapper.dwcdn.net/y3LA1/1/](https://datawrapper.dwcdn.net/y3LiA/1/))
-  - *Objetivo:* Permitir al lector explorar de un vistazo la comparación exacta mes a mes entre 2025 y 2026 pasando el cursor por cada punto de la serie.
-- **🎬 Narrativa Animada de la Serie (Flourish):** [Ver Animación en Flourish]([https://flourish-user-preview.com/20636392/mmsGCBO6qndE4WhVMxEaTQ/?auth=aaRuVLIyCyzdMCN235xlu_1lx7LuBfTI/](https://flourish-user-preview.com/30636592/mrnaGC80RqmEdtW9xM0xEaEQ1fgP-aaRvUtLCyzzIdCN235nfu_3Jx2TLdBlFTTb/))
-  - *Objetivo:* Generar una dinámica de scrollytelling/video que muestra el recorrido acumulativo y la velocidad del cambio en los precios a lo largo del tiempo.
+* **📈 Gráfico Comparativo Interactivo (Datawrapper):** [Ver Gráfico Interactivo en Datawrapper](https://datawrapper.dwcdn.net/y3LiA/1/)
+  * *Objetivo:* Permitir al lector explorar de un vistazo la comparación exacta mes a mes entre 2025 y 2026 pasando el cursor por cada punto de la serie.
+
+* **🎬 Narrativa Animada de la Serie (Flourish):** [Ver Animación en Flourish](https://flourish-user-preview.com/30636592/mrnaGC80RqmEdtW9xM0xEaEQ1fgP-aaRvUtLCyzzIdCN235nfu_3Jx2TLdBlFTTb/)
+  * *Objetivo:* Generar una dinámica de scrollytelling/video que muestra el recorrido acumulativo y la velocidad del cambio en los precios a lo largo del tiempo.
 
 ---
 
